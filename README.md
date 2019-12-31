@@ -1,0 +1,2 @@
+# manowar
+Daily use Algorithms
