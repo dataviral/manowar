@@ -1,2 +1,2 @@
 # manowar
-Daily use Algorithms
+Some common Algorithms in C and Python
