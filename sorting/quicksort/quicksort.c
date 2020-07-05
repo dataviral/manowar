@@ -1,6 +1,5 @@
 #include <stdlib.h>
-#include <stdio.h>
-#include "quicksort.h"
+
 /*
  * quicksort.c
  * Implementation of the quicksort sorting algorithm.
@@ -27,7 +26,7 @@ size_t static qsort_partition(int *arr, size_t l, size_t h);
 
 
 /* ----------------------------------------------------------------------------
- * Function: qsort
+ * Function: qsort_user
  *
  * Sort the array 'arr' using the quicksort alogrithm.
  * ----------------------------------------------------------------------------
